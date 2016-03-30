@@ -49,6 +49,6 @@
 </div>
 <div>
 <h4>To Do</h4>
-<p>Add color remapping!</p>
+<p>Add color mapping!</p>
 </div>
 
