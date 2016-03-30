@@ -4,7 +4,7 @@
 <p>This is my first attempt at making a Jitter application</p>
 <p>email — ed.mc.farr@gmail.com</p>
 <p>web — eddiefarr.com</p>
-<p>Download" <a href="https://drive.google.com/file/d/0Bxd7aIM353eSXzdGUjRFOTJZaEk/view?usp=sharing">Mac</a></p>
+<p>Download: <a href="https://drive.google.com/file/d/0Bxd7aIM353eSXzdGUjRFOTJZaEk/view?usp=sharing">Mac</a></p>
 <p>To start rendering click the box next to the fps GUI</p>
 <p>Press space bar to toggle fullscreen</p>
 <p>Click on a capture method to use (green is on/red is off)</p>
